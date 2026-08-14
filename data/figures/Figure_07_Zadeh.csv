@@ -1,0 +1,91 @@
+benchmark,figure_number,field,time_s,series,depth_m,value,reference_source
+Zadeh,7,psi,0.0,Initial,0.01,0.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.03,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.05,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.07,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.09,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.11,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.13,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.15,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.17,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.19,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.21,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.23,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.25,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.27,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.29,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.31,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.33,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.35000000000000003,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.37,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.39,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.41000000000000003,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.43,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.45,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.47000000000000003,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.49,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.51,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.53,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.55,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.5700000000000001,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,0.0,Initial,0.59,-200.0,Initial condition used in the authors' calculation.
+Zadeh,7,psi,18000.0,EFV,0.01,-0.0090377304697688,
+Zadeh,7,psi,18000.0,EFV,0.03,-0.0254967140773171,
+Zadeh,7,psi,18000.0,EFV,0.05,-0.0540248593792296,
+Zadeh,7,psi,18000.0,EFV,0.07,-0.1089892014727696,
+Zadeh,7,psi,18000.0,EFV,0.09,-0.2456729238451135,
+Zadeh,7,psi,18000.0,EFV,0.11,-0.7650694848430566,
+Zadeh,7,psi,18000.0,EFV,0.13,-6.154606467472322,
+Zadeh,7,psi,18000.0,EFV,0.15,-189.53958423586465,
+Zadeh,7,psi,18000.0,EFV,0.17,-199.99999653258428,
+Zadeh,7,psi,18000.0,EFV,0.19,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.21,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.23,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.25,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.27,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.29,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.31,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.33,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.35,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.37,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.39,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.41,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.43,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.45,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.47,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.49,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.51,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.53,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.55,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.5700000000000001,-200.00000000000009,
+Zadeh,7,psi,18000.0,EFV,0.59,-200.00000000000009,
+Zadeh,7,psi,18000.0,Reference,0.01,-0.0090856070679157,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.03,-0.0256381290353373,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.05,-0.0543570021213481,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.07,-0.1098037463105343,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.09,-0.2481623582652188,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.11,-0.7763314123197533,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.13,-6.321394309772523,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.15,-189.89737832137607,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.17,-199.99999640060588,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.19,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.21,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.23,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.25,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.27,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.29,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.31,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.33,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.35,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.37,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.39,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.41,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.43,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.45,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.47,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.49,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.51,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.53,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.55,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.5700000000000001,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."
+Zadeh,7,psi,18000.0,Reference,0.59,-200.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011."

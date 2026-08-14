@@ -1,0 +1,301 @@
+benchmark,figure_number,field,time_s,series,depth_m,value,reference_source
+Hills,11,theta,0.0,Initial,0.005,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.015,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.025,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.035,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.045,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.055,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.065,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.075,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.085,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.095,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.105,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.115,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.125,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.135,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.145,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.155,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.165,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.17500000000000002,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.185,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.195,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.20500000000000002,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.215,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.225,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.23500000000000001,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.245,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.255,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.265,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.275,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.28500000000000003,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.295,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.305,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.315,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.325,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.335,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.34500000000000003,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.355,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.365,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.375,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.385,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.395,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.405,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.41500000000000004,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.425,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.435,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.445,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.455,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.465,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.47500000000000003,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.485,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.495,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.505,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.515,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.525,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.535,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.545,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.555,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.5650000000000001,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.5750000000000001,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.585,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.595,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.605,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.615,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.625,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.635,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.645,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.655,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.665,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.675,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.685,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.6950000000000001,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.705,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.715,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.725,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.735,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.745,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.755,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.765,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.775,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.785,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.795,0.16377026456772065,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.805,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.8150000000000001,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.8250000000000001,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.835,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.845,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.855,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.865,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.875,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.885,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.895,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.905,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.915,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.925,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.935,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.9450000000000001,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.9550000000000001,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.965,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.975,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.985,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,0.0,Initial,0.995,0.028913226117849827,Initial condition used in the authors' calculation.
+Hills,11,theta,432000.0,EFV,0.005,0.1567277254346277,
+Hills,11,theta,432000.0,EFV,0.015,0.1574910636707696,
+Hills,11,theta,432000.0,EFV,0.025,0.1582944215602403,
+Hills,11,theta,432000.0,EFV,0.035,0.1591393402696133,
+Hills,11,theta,432000.0,EFV,0.045,0.1600273733156124,
+Hills,11,theta,432000.0,EFV,0.055,0.160960083511633,
+Hills,11,theta,432000.0,EFV,0.065,0.1619390398849251,
+Hills,11,theta,432000.0,EFV,0.075,0.162965814594547,
+Hills,11,theta,432000.0,EFV,0.085,0.1640419798793352,
+Hills,11,theta,432000.0,EFV,0.095,0.1651691050632246,
+Hills,11,theta,432000.0,EFV,0.105,0.166348753642291,
+Hills,11,theta,432000.0,EFV,0.115,0.167582480473783,
+Hills,11,theta,432000.0,EFV,0.125,0.1688718290823026,
+Hills,11,theta,432000.0,EFV,0.135,0.1702183290920801,
+Hills,11,theta,432000.0,EFV,0.145,0.1716234937871832,
+Hills,11,theta,432000.0,EFV,0.155,0.1730888177935422,
+Hills,11,theta,432000.0,EFV,0.165,0.1746157748679822,
+Hills,11,theta,432000.0,EFV,0.175,0.1762058157701959,
+Hills,11,theta,432000.0,EFV,0.185,0.1778603661839155,
+Hills,11,theta,432000.0,EFV,0.195,0.1795808246435865,
+Hills,11,theta,432000.0,EFV,0.205,0.4280925296430192,
+Hills,11,theta,432000.0,EFV,0.215,0.4273132015180904,
+Hills,11,theta,432000.0,EFV,0.225,0.4264995414842522,
+Hills,11,theta,432000.0,EFV,0.235,0.4256495096067562,
+Hills,11,theta,432000.0,EFV,0.245,0.4247608963312168,
+Hills,11,theta,432000.0,EFV,0.255,0.4238313031214053,
+Hills,11,theta,432000.0,EFV,0.265,0.4228581202081157,
+Hills,11,theta,432000.0,EFV,0.275,0.4218385009112696,
+Hills,11,theta,432000.0,EFV,0.285,0.4207693318763965,
+Hills,11,theta,432000.0,EFV,0.295,0.4196471984134798,
+Hills,11,theta,432000.0,EFV,0.305,0.4184683439308185,
+Hills,11,theta,432000.0,EFV,0.315,0.4172286222054975,
+Hills,11,theta,432000.0,EFV,0.325,0.4159234409067343,
+Hills,11,theta,432000.0,EFV,0.335,0.4145476943630388,
+Hills,11,theta,432000.0,EFV,0.345,0.4130956830027208,
+Hills,11,theta,432000.0,EFV,0.355,0.4115610161488531,
+Hills,11,theta,432000.0,EFV,0.365,0.409936493840783,
+Hills,11,theta,432000.0,EFV,0.375,0.4082139619781748,
+Hills,11,theta,432000.0,EFV,0.385,0.4063841331821293,
+Hills,11,theta,432000.0,EFV,0.395,0.404436363104391,
+Hills,11,theta,432000.0,EFV,0.405,0.1210299687350338,
+Hills,11,theta,432000.0,EFV,0.415,0.1199998640013542,
+Hills,11,theta,432000.0,EFV,0.425,0.1188996275964457,
+Hills,11,theta,432000.0,EFV,0.435,0.1177220834062384,
+Hills,11,theta,432000.0,EFV,0.445,0.1164589030347099,
+Hills,11,theta,432000.0,EFV,0.455,0.1151003301305119,
+Hills,11,theta,432000.0,EFV,0.465,0.1136348135714757,
+Hills,11,theta,432000.0,EFV,0.475,0.1120485099436078,
+Hills,11,theta,432000.0,EFV,0.485,0.1103245938741085,
+Hills,11,theta,432000.0,EFV,0.495,0.10844227776464,
+Hills,11,theta,432000.0,EFV,0.505,0.1063753773552835,
+Hills,11,theta,432000.0,EFV,0.515,0.1040901396845632,
+Hills,11,theta,432000.0,EFV,0.525,0.1015418173115674,
+Hills,11,theta,432000.0,EFV,0.535,0.0986689914193492,
+Hills,11,theta,432000.0,EFV,0.545,0.0953835721901485,
+Hills,11,theta,432000.0,EFV,0.555,0.0915517718193145,
+Hills,11,theta,432000.0,EFV,0.5650000000000001,0.0869540988449693,
+Hills,11,theta,432000.0,EFV,0.5750000000000001,0.0811894510928546,
+Hills,11,theta,432000.0,EFV,0.585,0.0734045243525291,
+Hills,11,theta,432000.0,EFV,0.595,0.0614883858345594,
+Hills,11,theta,432000.0,EFV,0.605,0.3240358516438898,
+Hills,11,theta,432000.0,EFV,0.615,0.310998514245299,
+Hills,11,theta,432000.0,EFV,0.625,0.2948195801616098,
+Hills,11,theta,432000.0,EFV,0.635,0.2739153824395009,
+Hills,11,theta,432000.0,EFV,0.645,0.2459293135154717,
+Hills,11,theta,432000.0,EFV,0.655,0.2095482900893206,
+Hills,11,theta,432000.0,EFV,0.665,0.1716289823434696,
+Hills,11,theta,432000.0,EFV,0.675,0.1638967860806386,
+Hills,11,theta,432000.0,EFV,0.685,0.163771658318251,
+Hills,11,theta,432000.0,EFV,0.6950000000000001,0.1637702796947478,
+Hills,11,theta,432000.0,EFV,0.705,0.163770264771587,
+Hills,11,theta,432000.0,EFV,0.715,0.1637702648057436,
+Hills,11,theta,432000.0,EFV,0.725,0.1637702656813444,
+Hills,11,theta,432000.0,EFV,0.735,0.163770269336696,
+Hills,11,theta,432000.0,EFV,0.745,0.1637702830329977,
+Hills,11,theta,432000.0,EFV,0.755,0.1637703287118478,
+Hills,11,theta,432000.0,EFV,0.765,0.1637704628643098,
+Hills,11,theta,432000.0,EFV,0.775,0.1637708058297019,
+Hills,11,theta,432000.0,EFV,0.785,0.1637715605559458,
+Hills,11,theta,432000.0,EFV,0.795,0.163772977765809,
+Hills,11,theta,432000.0,EFV,0.805,0.0289133106013055,
+Hills,11,theta,432000.0,EFV,0.8150000000000001,0.0289132265733285,
+Hills,11,theta,432000.0,EFV,0.8250000000000001,0.0289132261183023,
+Hills,11,theta,432000.0,EFV,0.835,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.845,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.855,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.865,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.875,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.885,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.895,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.905,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.915,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.925,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.935,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.945,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.955,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.965,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.975,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.985,0.0289132261178498,
+Hills,11,theta,432000.0,EFV,0.995,0.0289132261178498,
+Hills,11,theta,432000.0,Reference,0.005,0.1567198602275803,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.015,0.1574828365874588,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.025,0.1582858231051179,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.035,0.1591303610704765,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.045,0.1600180041440493,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.055,0.1609503153018253,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.065,0.1619288637505248,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.075,0.1629552218433815,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.085,0.1640309620257414,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.095,0.165157653837876,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.105,0.1663368609994363,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.115,0.1675701385959057,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.125,0.1688590303822661,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.135,0.17020506621292,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.145,0.1716097595997908,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.155,0.1730746053925621,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.165,0.1746010775663306,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.175,0.176190627092693,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.185,0.1778446798605978,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.195,0.1795646346033326,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.205,0.4280874580103644,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.215,0.4273080388129667,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.225,0.4264942895809988,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.235,0.4256441710180417,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.245,0.4247554743005898,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.255,0.423825801728514,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.265,0.4228525444886192,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.275,0.4218328569938053,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.285,0.4207636271394577,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.295,0.4196414416656344,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.305,0.4184625456184341,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.315,0.4172227946530774,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.325,0.4159175985961593,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.335,0.4145418542595498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.345,0.4130898649375134,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.355,0.4115552432708009,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.365,0.4099307931534276,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.375,0.408208364982963,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.385,0.4063786766557938,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.395,0.4044310900484741,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.405,0.1210204578137835,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.415,0.1199901096232334,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.425,0.1188896368008503,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.435,0.117711865337235,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.445,0.1164484692143016,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.455,0.1150896947731082,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.465,0.1136239939490335,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.475,0.1120375268139525,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.485,0.1103134719891499,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.495,0.1084310464810573,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.505,0.1063640713782448,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.515,0.1040787999855033,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.525,0.1015304922728514,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.535,0.0986577382649773,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.545,0.0953724587336378,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.555,0.0915408783819213,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.5650000000000001,0.0869435193860542,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.5750000000000001,0.0811792889676656,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.585,0.0733948624261387,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.595,0.0614792277564196,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.605,0.3240198180949245,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.615,0.310987595123409,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.625,0.2948203815225593,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.635,0.2739426306998592,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.645,0.2460131895451228,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.655,0.2097269817406161,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.665,0.1719084633926435,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.675,0.1639089675730818,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.685,0.1637718590341041,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.6950000000000001,0.1637702826309492,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.705,0.1637702648104614,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.715,0.1637702648080517,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.725,0.1637702656898781,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.735,0.163770269361435,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.745,0.1637702830913827,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.755,0.1637703288205861,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.765,0.1637704630060975,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.775,0.163770805912553,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.785,0.1637715604457067,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.795,0.1637729774478677,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.805,0.0289133105957723,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.8150000000000001,0.0289132265733811,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.8250000000000001,0.0289132261192697,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.835,0.0289132261178528,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.845,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.855,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.865,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.875,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.885,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.895,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.905,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.915,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.925,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.935,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.945,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.955,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.965,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.975,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.985,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+Hills,11,theta,432000.0,Reference,0.995,0.0289132261178498,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."

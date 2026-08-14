@@ -1,0 +1,35 @@
+{
+  "archive_version": "1.0.0",
+  "prepared_utc": "2026-08-13T19:22:40+00:00",
+  "preparation_method": "Profile datasets, common-grid comparisons, benchmark configurations and performance summaries were assembled from the verified ten-case calculation completed on 13 August 2026. The reproduction workflow validates these records, recalculates the agreement measures and recreates the archived figures and tables.",
+  "dataset_summary": {
+    "benchmarks": [
+      "Forsyth",
+      "Celia",
+      "Warrick",
+      "Warrick2",
+      "Zhi Li",
+      "Zadeh",
+      "Zeng",
+      "Caviedes",
+      "Miller",
+      "Hills"
+    ],
+    "figure_datasets": 10,
+    "agreement_profiles": 10,
+    "benchmark_configuration_records": 10,
+    "archived_result_tables": 2
+  },
+  "reference_sources": {
+    "Forsyth": "Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J.",
+    "Celia": "Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483.",
+    "Warrick": "Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001.",
+    "Warrick2": "Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x.",
+    "Zhi Li": "Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900.",
+    "Zadeh": "Authors' implicit Picard calculation generated from the benchmark configuration adapted from Sadegh Zadeh (2011), https://doi.org/10.1016/j.jcp.2010.10.011.",
+    "Zeng": "Authors' implicit Picard calculation generated from the benchmark configuration adapted from Zeng, Zha and Yang (2018), https://doi.org/10.1016/j.jhydrol.2018.06.069.",
+    "Caviedes": "Authors' implicit Picard calculation generated from the benchmark configuration adapted from Caviedes-Voullieme, Garcia-Navarro and Murillo (2013), https://doi.org/10.1016/j.jhydrol.2012.12.008.",
+    "Miller": "Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673.",
+    "Hills": "Authors' implicit Picard calculation generated from the benchmark configuration adapted from Hills, Porro, Hudson and Wierenga (1989), https://doi.org/10.1029/WR025i006p01259."
+  }
+}

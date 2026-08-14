@@ -1,0 +1,61 @@
+benchmark,figure_number,field,time_s,series,depth_m,value,reference_source
+Warrick2,5,psi,0.0,Initial,0.025,0.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.07500000000000001,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.125,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.17500000000000002,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.225,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.275,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.325,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.375,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.42500000000000004,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.47500000000000003,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.525,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.5750000000000001,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.625,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.675,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.7250000000000001,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.775,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.8250000000000001,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.875,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.925,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,0.0,Initial,0.9750000000000001,-8.0,Initial condition used in the authors' calculation.
+Warrick2,5,psi,46800.0,EFV,0.025,0.0001122985522237,
+Warrick2,5,psi,46800.0,EFV,0.075,-0.001220402049603,
+Warrick2,5,psi,46800.0,EFV,0.125,-0.0062744926631108,
+Warrick2,5,psi,46800.0,EFV,0.175,-0.0165868752046328,
+Warrick2,5,psi,46800.0,EFV,0.225,-0.0338967331860755,
+Warrick2,5,psi,46800.0,EFV,0.275,-0.0606957379643156,
+Warrick2,5,psi,46800.0,EFV,0.325,-0.100856644329257,
+Warrick2,5,psi,46800.0,EFV,0.375,-0.1609134113891113,
+Warrick2,5,psi,46800.0,EFV,0.425,-0.2530779370500673,
+Warrick2,5,psi,46800.0,EFV,0.475,-0.4035421882890821,
+Warrick2,5,psi,46800.0,EFV,0.525,-0.680020106479593,
+Warrick2,5,psi,46800.0,EFV,0.5750000000000001,-1.3010796953841908,
+Warrick2,5,psi,46800.0,EFV,0.625,-3.104915900211167,
+Warrick2,5,psi,46800.0,EFV,0.675,-7.22025912660149,
+Warrick2,5,psi,46800.0,EFV,0.7250000000000001,-7.983987078151703,
+Warrick2,5,psi,46800.0,EFV,0.775,-7.999726335179795,
+Warrick2,5,psi,46800.0,EFV,0.8250000000000001,-7.999995377073294,
+Warrick2,5,psi,46800.0,EFV,0.875,-7.999999922709372,
+Warrick2,5,psi,46800.0,EFV,0.925,-7.999999998724874,
+Warrick2,5,psi,46800.0,EFV,0.975,-7.999999999999996,
+Warrick2,5,psi,46800.0,Reference,0.025,0.0001073071916666,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.075,-0.0012479443058598,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.125,-0.0063529893549452,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.175,-0.0167364922688944,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.225,-0.0341428176056034,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.275,-0.0610736131877723,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.325,-0.1014195849344403,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.375,-0.1617502954126854,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.425,-0.2543585698608011,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.475,-0.4056467706849917,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.525,-0.6839509604181592,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.5750000000000001,-1.3098537608568377,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.625,-3.127863132331521,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.675,-7.224437712251816,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.7250000000000001,-7.983679564692972,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.775,-7.999713503515931,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.8250000000000001,-7.999995025730282,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.875,-7.999999914465118,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.925,-7.999999998545687,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."
+Warrick2,5,psi,46800.0,Reference,0.975,-8.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick, Lomen and Yates (1985), https://doi.org/10.2136/sssaj1985.03615995004900010006x."

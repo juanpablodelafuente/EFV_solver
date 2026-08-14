@@ -1,0 +1,61 @@
+benchmark,figure_number,field,time_s,series,depth_m,value,reference_source
+Celia,3,psi,0.0,Initial,0.025,-0.75,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.07500000000000001,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.125,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.17500000000000002,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.225,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.275,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.325,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.375,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.42500000000000004,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.47500000000000003,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.525,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.5750000000000001,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.625,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.675,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.7250000000000001,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.775,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.8250000000000001,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.875,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.925,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,0.0,Initial,0.9750000000000001,-10.0,Initial condition used in the authors' calculation.
+Celia,3,psi,21600.0,EFV,0.025,-0.7878172958153974,
+Celia,3,psi,21600.0,EFV,0.075,-0.8477186963715151,
+Celia,3,psi,21600.0,EFV,0.125,-0.9488444205080117,
+Celia,3,psi,21600.0,EFV,0.175,-1.14122682606375,
+Celia,3,psi,21600.0,EFV,0.225,-1.5912810386298082,
+Celia,3,psi,21600.0,EFV,0.275,-3.0187379112998274,
+Celia,3,psi,21600.0,EFV,0.325,-8.584184674149446,
+Celia,3,psi,21600.0,EFV,0.375,-9.995709995191143,
+Celia,3,psi,21600.0,EFV,0.425,-9.999991707255427,
+Celia,3,psi,21600.0,EFV,0.475,-9.999999984661644,
+Celia,3,psi,21600.0,EFV,0.525,-9.999999999973332,
+Celia,3,psi,21600.0,EFV,0.5750000000000001,-10.000000000000004,
+Celia,3,psi,21600.0,EFV,0.625,-10.000000000000004,
+Celia,3,psi,21600.0,EFV,0.675,-10.000000000000004,
+Celia,3,psi,21600.0,EFV,0.7250000000000001,-10.000000000000004,
+Celia,3,psi,21600.0,EFV,0.775,-10.000000000000004,
+Celia,3,psi,21600.0,EFV,0.8250000000000001,-10.000000000000004,
+Celia,3,psi,21600.0,EFV,0.875,-10.000000000000004,
+Celia,3,psi,21600.0,EFV,0.925,-10.000000000000004,
+Celia,3,psi,21600.0,EFV,0.975,-10.000000000000004,
+Celia,3,psi,21600.0,Reference,0.025,-0.7879363917085825,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.075,-0.8480586021180109,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.125,-0.9496289447504808,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.175,-1.143047723879443,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.225,-1.5960550091712236,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.275,-3.0345298494679542,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.325,-8.592102066508584,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.375,-9.995610091359271,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.425,-9.999991219728203,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.475,-9.999999983153517,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.525,-9.9999999999689,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.5750000000000001,-9.99999999999998,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.625,-10.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.675,-10.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.7250000000000001,-10.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.775,-10.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.8250000000000001,-10.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.875,-9.999999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.925,-10.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."
+Celia,3,psi,21600.0,Reference,0.975,-10.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Celia, Bouloutas and Zarba (1990), https://doi.org/10.1029/WR026i007p01483."

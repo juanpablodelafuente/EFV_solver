@@ -1,0 +1,76 @@
+benchmark,figure_number,field,time_s,series,depth_m,value,reference_source
+Warrick,4,psi,0.0,Initial,0.025,0.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.07500000000000001,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.125,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.17500000000000002,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.225,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.275,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.325,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.375,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.42500000000000004,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.47500000000000003,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.525,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.5750000000000001,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.625,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.675,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.7250000000000001,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.775,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.8250000000000001,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.875,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.925,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,0.9750000000000001,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,1.0250000000000001,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,1.075,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,1.125,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,1.175,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,0.0,Initial,1.225,-2.0,Initial condition used in the authors' calculation.
+Warrick,4,psi,1000800.0,EFV,0.025,5.621582410041026e-05,
+Warrick,4,psi,1000800.0,EFV,0.075,0.0001123596229608,
+Warrick,4,psi,1000800.0,EFV,0.125,0.000168359009341,
+Warrick,4,psi,1000800.0,EFV,0.175,0.0002241408718724,
+Warrick,4,psi,1000800.0,EFV,0.225,0.0002796310126747,
+Warrick,4,psi,1000800.0,EFV,0.275,0.0003347537845857,
+Warrick,4,psi,1000800.0,EFV,0.325,0.0003894317278717,
+Warrick,4,psi,1000800.0,EFV,0.375,0.0004435852062807,
+Warrick,4,psi,1000800.0,EFV,0.425,0.0004971320422951,
+Warrick,4,psi,1000800.0,EFV,0.475,-0.0003040321582971,
+Warrick,4,psi,1000800.0,EFV,0.525,-0.005208485126337,
+Warrick,4,psi,1000800.0,EFV,0.5750000000000001,-0.0185290926528742,
+Warrick,4,psi,1000800.0,EFV,0.625,-0.0447818413194952,
+Warrick,4,psi,1000800.0,EFV,0.675,-0.0921926686311117,
+Warrick,4,psi,1000800.0,EFV,0.7250000000000001,-0.1782282357042089,
+Warrick,4,psi,1000800.0,EFV,0.775,-0.3465129356207112,
+Warrick,4,psi,1000800.0,EFV,0.8250000000000001,-0.7157524866016926,
+Warrick,4,psi,1000800.0,EFV,0.875,-1.4805861417437776,
+Warrick,4,psi,1000800.0,EFV,0.925,-1.9442353665643652,
+Warrick,4,psi,1000800.0,EFV,0.975,-1.9962579062758845,
+Warrick,4,psi,1000800.0,EFV,1.025,-1.9997588167933908,
+Warrick,4,psi,1000800.0,EFV,1.075,-1.9999844949076029,
+Warrick,4,psi,1000800.0,EFV,1.125,-1.9999990032922577,
+Warrick,4,psi,1000800.0,EFV,1.175,-1.9999999361711989,
+Warrick,4,psi,1000800.0,EFV,1.225,-1.9999999999999996,
+Warrick,4,psi,1000800.0,Reference,0.025,5.665915878539712e-05,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.075,0.0001132486914253,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.125,0.0001696986106404,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.175,0.0002259382068071,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.225,0.0002818956865172,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.275,0.0003374978111035,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.325,0.0003926695360529,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.375,0.0004473336562598,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.425,0.0005014104814325,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.475,-0.0003139067297684,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.525,-0.005254999113576,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.5750000000000001,-0.0186306449619986,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.625,-0.044969405249671,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.675,-0.0925267899959253,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.7250000000000001,-0.1788464858974275,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.775,-0.3477786698452014,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.8250000000000001,-0.7185896774486468,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.875,-1.484595056174974,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.925,-1.944889883064436,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,0.975,-1.9962999700420092,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,1.025,-1.999761286764651,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,1.075,-1.9999846372426224,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,1.125,-1.9999990113262087,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,1.175,-1.9999999366076588,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."
+Warrick,4,psi,1000800.0,Reference,1.225,-2.0,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Warrick (2003), Soil Water Dynamics, https://doi.org/10.1093/oso/9780195126051.001.0001."

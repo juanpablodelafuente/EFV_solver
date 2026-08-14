@@ -1,0 +1,151 @@
+benchmark,figure_number,field,time_s,series,depth_m,value,reference_source
+Zhi Li,6,psi,0.0,Initial,0.01,0.0,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.03,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.05,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.07,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.09,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.11,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.13,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.15,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.17,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.19,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.21,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.23,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.25,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.27,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.29,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.31,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.33,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.35000000000000003,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.37,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.39,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.41000000000000003,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.43,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.45,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.47000000000000003,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.49,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.51,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.53,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.55,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.5700000000000001,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.59,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.61,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.63,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.65,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.67,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.6900000000000001,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.71,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.73,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.75,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.77,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.79,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.81,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.8300000000000001,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.85,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.87,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.89,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.91,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.93,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.9500000000000001,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.97,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,0.0,Initial,0.99,-42.65,Initial condition used in the authors' calculation.
+Zhi Li,6,psi,32400.0,EFV,0.01,1.842547371892453e-05,
+Zhi Li,6,psi,32400.0,EFV,0.03,3.6843608116347554e-05,
+Zhi Li,6,psi,32400.0,EFV,0.05,5.524705482131939e-05,
+Zhi Li,6,psi,32400.0,EFV,0.07,7.362844735946668e-05,
+Zhi Li,6,psi,32400.0,EFV,0.09,9.198039209360056e-05,
+Zhi Li,6,psi,32400.0,EFV,0.11,-5.016337127911299e-05,
+Zhi Li,6,psi,32400.0,EFV,0.13,-0.0009075229592958,
+Zhi Li,6,psi,32400.0,EFV,0.15,-0.0029945306316222,
+Zhi Li,6,psi,32400.0,EFV,0.17,-0.0065218456286333,
+Zhi Li,6,psi,32400.0,EFV,0.19,-0.0117381057719643,
+Zhi Li,6,psi,32400.0,EFV,0.21,-0.0189537416787324,
+Zhi Li,6,psi,32400.0,EFV,0.23,-0.0285675978468367,
+Zhi Li,6,psi,32400.0,EFV,0.25,-0.0411055135932179,
+Zhi Li,6,psi,32400.0,EFV,0.27,-0.0572803905958035,
+Zhi Li,6,psi,32400.0,EFV,0.29,-0.0780905203071272,
+Zhi Li,6,psi,32400.0,EFV,0.31,-0.1049892296013023,
+Zhi Li,6,psi,32400.0,EFV,0.33,-0.1401963011691563,
+Zhi Li,6,psi,32400.0,EFV,0.35,-0.1873150770618697,
+Zhi Li,6,psi,32400.0,EFV,0.37,-0.2526799572808422,
+Zhi Li,6,psi,32400.0,EFV,0.39,-0.3486959905365976,
+Zhi Li,6,psi,32400.0,EFV,0.41,-0.5036364767470369,
+Zhi Li,6,psi,32400.0,EFV,0.43,-0.7975180512129629,
+Zhi Li,6,psi,32400.0,EFV,0.45,-1.5324001265175058,
+Zhi Li,6,psi,32400.0,EFV,0.47,-4.388362732196797,
+Zhi Li,6,psi,32400.0,EFV,0.49,-27.48212291377298,
+Zhi Li,6,psi,32400.0,EFV,0.51,-42.62263459314947,
+Zhi Li,6,psi,32400.0,EFV,0.53,-42.64998089644676,
+Zhi Li,6,psi,32400.0,EFV,0.55,-42.64999998677865,
+Zhi Li,6,psi,32400.0,EFV,0.5700000000000001,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.59,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.61,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.63,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.65,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.67,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.6900000000000001,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.71,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.73,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.75,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.77,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.79,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.81,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.8300000000000001,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.85,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.87,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.89,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.91,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.93,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.95,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.97,-42.649999999999984,
+Zhi Li,6,psi,32400.0,EFV,0.99,-42.649999999999984,
+Zhi Li,6,psi,32400.0,Reference,0.01,1.936496675768215e-05,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.03,3.8723843792541625e-05,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.05,5.807053632246176e-05,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.07,7.739894090089011e-05,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.09,9.670294533368612e-05,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.11,-6.04999617096015e-05,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.13,-0.0009518408945767,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.15,-0.003078033825075,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.17,-0.0066506802451317,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.19,-0.0119200031029751,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.21,-0.0191986407252101,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.23,-0.0288885403548658,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.25,-0.0415200175785614,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.27,-0.0578126513121294,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.29,-0.0787751060184704,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.31,-0.1058776412211266,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.33,-0.1413694311813866,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.35,-0.1889089648908753,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.37,-0.2549451292055694,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.39,-0.3521550502582671,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.41,-0.5095893139995673,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.43,-0.8100962640430059,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.45,-1.5693566219531696,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.47,-4.565878191432287,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.49,-28.768080393218877,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.51,-42.62755565137047,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.53,-42.64998429585877,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.55,-42.64999998917523,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.5700000000000001,-42.64999999999134,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.59,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.61,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.63,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.65,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.67,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.6900000000000001,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.71,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.73,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.75,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.77,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.79,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.81,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.8300000000000001,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.85,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.87,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.89,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.91,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.93,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.95,-42.64999999999996,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.97,-42.650000000000034,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."
+Zhi Li,6,psi,32400.0,Reference,0.99,-42.64999999999999,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Li et al. (2024), https://doi.org/10.1016/j.envsoft.2023.105900."

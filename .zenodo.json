@@ -1,0 +1,26 @@
+{
+  "creators": [
+    {
+      "name": "De La Fuente Cusicanqui, Juan Pablo",
+      "affiliation": "Newcastle University"
+    },
+    {
+      "name": "Glenis, Vassilis",
+      "affiliation": "Newcastle University"
+    }
+  ],
+  "title": "EFV benchmark profiles and numerical results for the 1-D Richards equation",
+  "description": "Numerical profiles, benchmark configurations, agreement measures and performance summaries for ten one-dimensional Richards equation benchmark cases, together with the Python analysis and plotting workflow used to validate the archived values and recreate the corresponding figures and tables.",
+  "version": "1.0.0",
+  "access_right": "open",
+  "keywords": [
+    "Richards equation",
+    "finite volume",
+    "unsaturated flow",
+    "benchmark assessment",
+    "reproducible research"
+  ],
+  "license": "mit",
+  "upload_type": "software",
+  "language": "eng"
+}

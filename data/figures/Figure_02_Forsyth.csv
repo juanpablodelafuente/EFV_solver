@@ -1,0 +1,181 @@
+benchmark,figure_number,field,time_s,series,depth_m,value,reference_source
+Forsyth,2,psi,0.0,Initial,0.05,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,0.15000000000000002,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,0.25,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,0.35000000000000003,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,0.45,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,0.55,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,0.65,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,0.75,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,0.8500000000000001,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,0.9500000000000001,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,1.05,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,1.1500000000000001,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,1.25,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,1.35,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,1.4500000000000002,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,1.55,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,1.6500000000000001,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,1.75,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,1.85,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,1.9500000000000002,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,2.0500000000000003,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,2.15,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,2.25,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,2.35,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,2.45,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,2.5500000000000003,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,2.6500000000000004,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,2.75,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,2.85,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,2.95,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,3.0500000000000003,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,3.1500000000000004,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,3.25,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,3.35,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,3.45,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,3.5500000000000003,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,3.6500000000000004,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,3.75,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,3.85,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,3.95,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,4.05,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,4.15,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,4.25,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,4.3500000000000005,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,4.45,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,4.55,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,4.65,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,4.75,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,4.8500000000000005,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,4.95,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,5.050000000000001,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,5.15,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,5.25,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,5.3500000000000005,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,5.45,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,5.550000000000001,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,5.65,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,5.75,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,5.8500000000000005,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,0.0,Initial,5.95,0.0,Initial condition used in the authors' calculation.
+Forsyth,2,psi,8640000.0,EFV,0.05,-3.002377831610311,
+Forsyth,2,psi,8640000.0,EFV,0.15,-2.9114174330539275,
+Forsyth,2,psi,8640000.0,EFV,0.25,-2.828251155272203,
+Forsyth,2,psi,8640000.0,EFV,0.35,-2.7518550848155003,
+Forsyth,2,psi,8640000.0,EFV,0.45,-2.6813794268577853,
+Forsyth,2,psi,8640000.0,EFV,0.55,-2.616112715781987,
+Forsyth,2,psi,8640000.0,EFV,0.65,-2.555454475948323,
+Forsyth,2,psi,8640000.0,EFV,0.75,-2.4988940903592205,
+Forsyth,2,psi,8640000.0,EFV,0.8500000000000001,-2.445994286837214,
+Forsyth,2,psi,8640000.0,EFV,0.95,-2.3963780978453944,
+Forsyth,2,psi,8640000.0,EFV,1.05,-2.3497184603635963,
+Forsyth,2,psi,8640000.0,EFV,1.15,-2.3057298407426945,
+Forsyth,2,psi,8640000.0,EFV,1.25,-2.264161425234383,
+Forsyth,2,psi,8640000.0,EFV,1.35,-2.224791529193108,
+Forsyth,2,psi,8640000.0,EFV,1.4500000000000002,-2.1874229597180306,
+Forsyth,2,psi,8640000.0,EFV,1.55,-2.151879126569068,
+Forsyth,2,psi,8640000.0,EFV,1.65,-2.118000740640115,
+Forsyth,2,psi,8640000.0,EFV,1.75,-2.085642972353768,
+Forsyth,2,psi,8640000.0,EFV,1.85,-2.0546729670549464,
+Forsyth,2,psi,8640000.0,EFV,1.95,-2.0249676329753346,
+Forsyth,2,psi,8640000.0,EFV,2.0500000000000003,-1.9964116311731828,
+Forsyth,2,psi,8640000.0,EFV,2.15,-1.968895507179444,
+Forsyth,2,psi,8640000.0,EFV,2.25,-1.942313911782117,
+Forsyth,2,psi,8640000.0,EFV,2.35,-1.9165638641655411,
+Forsyth,2,psi,8640000.0,EFV,2.45,-1.891543015097379,
+Forsyth,2,psi,8640000.0,EFV,2.5500000000000003,-1.8671478716013397,
+Forsyth,2,psi,8640000.0,EFV,2.6500000000000004,-1.8432719481730624,
+Forsyth,2,psi,8640000.0,EFV,2.75,-1.8198038137827204,
+Forsyth,2,psi,8640000.0,EFV,2.85,-1.7966250095022192,
+Forsyth,2,psi,8640000.0,EFV,2.95,-1.773607819646685,
+Forsyth,2,psi,8640000.0,EFV,3.0500000000000003,-1.7506128911431398,
+Forsyth,2,psi,8640000.0,EFV,3.1500000000000004,-1.7274867130417548,
+Forsyth,2,psi,8640000.0,EFV,3.25,-1.7040589925589402,
+Forsyth,2,psi,8640000.0,EFV,3.35,-1.6801399978613174,
+Forsyth,2,psi,8640000.0,EFV,3.45,-1.655517982965122,
+Forsyth,2,psi,8640000.0,EFV,3.5500000000000003,-1.6299568680757928,
+Forsyth,2,psi,8640000.0,EFV,3.65,-1.6031944194753704,
+Forsyth,2,psi,8640000.0,EFV,3.75,-1.5749412540895644,
+Forsyth,2,psi,8640000.0,EFV,3.85,-1.5448810782318152,
+Forsyth,2,psi,8640000.0,EFV,3.95,-1.5126726445798897,
+Forsyth,2,psi,8640000.0,EFV,4.05,-1.4779539551270584,
+Forsyth,2,psi,8640000.0,EFV,4.15,-1.4403492212497786,
+Forsyth,2,psi,8640000.0,EFV,4.25,-1.3994789797347993,
+Forsyth,2,psi,8640000.0,EFV,4.3500000000000005,-1.3549735211128904,
+Forsyth,2,psi,8640000.0,EFV,4.45,-1.3064893930746413,
+Forsyth,2,psi,8640000.0,EFV,4.55,-1.253728207443975,
+Forsyth,2,psi,8640000.0,EFV,4.65,-1.196456363565835,
+Forsyth,2,psi,8640000.0,EFV,4.75,-1.1345237212662915,
+Forsyth,2,psi,8640000.0,EFV,4.8500000000000005,-1.0678788759064513,
+Forsyth,2,psi,8640000.0,EFV,4.95,-0.996578675266208,
+Forsyth,2,psi,8640000.0,EFV,5.050000000000001,-0.9207900840737306,
+Forsyth,2,psi,8640000.0,EFV,5.15,-0.840783436486273,
+Forsyth,2,psi,8640000.0,EFV,5.25,-0.7569173581863037,
+Forsyth,2,psi,8640000.0,EFV,5.3500000000000005,-0.6696169064043707,
+Forsyth,2,psi,8640000.0,EFV,5.45,-0.579347455516674,
+Forsyth,2,psi,8640000.0,EFV,5.550000000000001,-0.4865873128453176,
+Forsyth,2,psi,8640000.0,EFV,5.65,-0.3918018971184789,
+Forsyth,2,psi,8640000.0,EFV,5.75,-0.2954215889080027,
+Forsyth,2,psi,8640000.0,EFV,5.8500000000000005,-0.1978239944742548,
+Forsyth,2,psi,8640000.0,EFV,5.95,-0.0993175178100976,
+Forsyth,2,psi,8640000.0,Reference,0.05,-3.001970699029087,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,0.15,-2.911011343346825,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,0.25,-2.827846874536045,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,0.35,-2.751453174936849,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,0.45,-2.6809802979403243,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,0.55,-2.6157166645072856,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,0.65,-2.5550617139817158,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,0.75,-2.4985047656309667,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,0.8500000000000001,-2.445608499673773,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,0.95,-2.395995913348385,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,1.05,-2.34933991803832,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,1.15,-2.305354962103716,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,1.25,-2.263790219924159,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,1.35,-2.2244240000138404,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,1.4500000000000002,-2.18705910687998,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,1.55,-2.1515189513894875,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,1.65,-2.1176442488768714,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,1.75,-2.085290177320975,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,1.85,-2.05432389264159,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,1.95,-2.0246223166677937,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,2.0500000000000003,-1.9960701271674293,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,2.15,-1.968557889655817,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,2.25,-1.9419802784045883,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,2.35,-1.9162343398553865,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,2.45,-1.8912177561174224,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,2.5500000000000003,-1.8668270699693064,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,2.6500000000000004,-1.842955836398961,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,2.75,-1.819492669892976,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,2.85,-1.796319162269603,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,2.95,-1.7733076538868178,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,3.0500000000000003,-1.7503188528616604,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,3.1500000000000004,-1.7271993141181126,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,3.25,-1.7037788145313957,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,3.35,-1.6798676942326098,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,3.45,-1.6552542792846612,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,3.5500000000000003,-1.629702558883558,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,3.65,-1.6029503610366234,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,3.75,-1.5747083517455305,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,3.85,-1.5446602671911354,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,3.95,-1.51246486314963,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,4.05,-1.4777601098091215,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,4.15,-1.4401701438821082,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,4.25,-1.399315377972753,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,4.3500000000000005,-1.3548259249859052,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,4.45,-1.3063581019556474,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,4.55,-1.2536132432267229,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,4.65,-1.1963574367235732,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,4.75,-1.1344402162929184,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,4.8500000000000005,-1.0678098610762068,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,4.95,-0.99652293867151,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,5.050000000000001,-0.9207461939479592,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,5.15,-0.8407498197475655,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,5.25,-0.756892387992971,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,5.3500000000000005,-0.6695989881507549,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,5.45,-0.5793351014580806,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,5.550000000000001,-0.4865791981123823,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,5.65,-0.3917968934476022,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,5.75,-0.2954187759531514,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,5.8500000000000005,-0.1978226510529944,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."
+Forsyth,2,psi,8640000.0,Reference,5.95,-0.0993170949475741,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Forsyth, Wu and Pruess (1995), https://doi.org/10.1016/0309-1708(95)00020-J."

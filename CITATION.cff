@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite the archived Zenodo version if you use these data or scripts."
+title: "EFV benchmark profiles and numerical results for the 1-D Richards equation"
+type: software
+authors:
+  - family-names: "De La Fuente Cusicanqui"
+    given-names: "Juan Pablo"
+    affiliation: "Newcastle University"
+  - family-names: "Glenis"
+    given-names: "Vassilis"
+    affiliation: "Newcastle University"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/juanpablodelafuente/EFV_solver"
+abstract: >-
+  Numerical profiles, benchmark configurations, agreement measures and
+  performance summaries for ten one-dimensional Richards equation benchmark
+  cases, together with the Python analysis and plotting workflow used to
+  validate the archived values and recreate the corresponding figures and
+  tables.
+keywords:
+  - Richards equation
+  - finite volume
+  - unsaturated flow
+  - benchmark
+  - reproducibility

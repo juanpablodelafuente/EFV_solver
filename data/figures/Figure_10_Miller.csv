@@ -1,0 +1,301 @@
+benchmark,figure_number,field,time_s,series,depth_m,value,reference_source
+Miller,10,psi,0.0,Initial,0.025,0.1,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.07500000000000001,-4.9,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.125,-4.8500000000000005,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.17500000000000002,-4.8,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.225,-4.75,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.275,-4.7,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.325,-4.65,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.375,-4.6000000000000005,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.42500000000000004,-4.55,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.47500000000000003,-4.5,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.525,-4.45,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.5750000000000001,-4.4,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.625,-4.35,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.675,-4.3,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.7250000000000001,-4.25,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.775,-4.2,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.8250000000000001,-4.15,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.875,-4.1,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.925,-4.05,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,0.9750000000000001,-4.0,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.0250000000000001,-3.95,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.075,-3.9000000000000004,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.125,-3.85,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.175,-3.8,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.225,-3.75,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.2750000000000001,-3.7,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.3250000000000002,-3.6500000000000004,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.375,-3.6,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.425,-3.55,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.475,-3.5,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.5250000000000001,-3.45,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.5750000000000002,-3.4000000000000004,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.625,-3.35,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.675,-3.3,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.725,-3.25,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.7750000000000001,-3.2,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.8250000000000002,-3.1500000000000004,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.875,-3.1,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.925,-3.05,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,1.975,-3.0,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.025,-2.95,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.075,-2.9,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.125,-2.85,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.1750000000000003,-2.8000000000000003,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.225,-2.75,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.275,-2.7,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.325,-2.65,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.375,-2.6,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.4250000000000003,-2.55,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.475,-2.5,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.5250000000000004,-2.45,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.575,-2.4,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.625,-2.35,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.6750000000000003,-2.3,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.725,-2.25,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.7750000000000004,-2.2,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.825,-2.15,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.875,-2.1,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.9250000000000003,-2.05,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,2.975,-2.0,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.0250000000000004,-1.9500000000000002,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.075,-1.9,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.125,-1.85,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.1750000000000003,-1.7999999999999998,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.225,-1.75,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.2750000000000004,-1.7000000000000002,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.325,-1.65,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.375,-1.6,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.4250000000000003,-1.5499999999999998,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.475,-1.5,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.5250000000000004,-1.4500000000000002,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.575,-1.4,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.625,-1.35,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.6750000000000003,-1.2999999999999998,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.725,-1.25,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.7750000000000004,-1.2000000000000002,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.825,-1.15,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.875,-1.1,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.9250000000000003,-1.0499999999999998,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,3.975,-1.0,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.025,-0.9500000000000002,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.075,-0.9000000000000004,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.125,-0.8499999999999996,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.175,-0.7999999999999998,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.2250000000000005,-0.75,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.275,-0.7000000000000002,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.325,-0.6500000000000004,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.375,-0.5999999999999996,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.425,-0.5499999999999998,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.4750000000000005,-0.5,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.525,-0.4500000000000002,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.575,-0.40000000000000036,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.625,-0.34999999999999964,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.675,-0.2999999999999998,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.7250000000000005,-0.25,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.775,-0.20000000000000018,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.825,-0.14999999999999947,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.875,-0.09999999999999964,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.925000000000001,-0.04999999999999982,Initial condition used in the authors' calculation.
+Miller,10,psi,0.0,Initial,4.9750000000000005,0.0,Initial condition used in the authors' calculation.
+Miller,10,psi,194400.0,EFV,0.025,0.0978962180952427,
+Miller,10,psi,194400.0,EFV,0.075,0.0957924597690541,
+Miller,10,psi,194400.0,EFV,0.125,0.0936887484619119,
+Miller,10,psi,194400.0,EFV,0.175,0.0915851073380372,
+Miller,10,psi,194400.0,EFV,0.225,0.0894815591470781,
+Miller,10,psi,194400.0,EFV,0.275,0.0873781260855694,
+Miller,10,psi,194400.0,EFV,0.325,0.0852748296580928,
+Miller,10,psi,194400.0,EFV,0.375,0.0831716905380636,
+Miller,10,psi,194400.0,EFV,0.425,0.0810687284280721,
+Miller,10,psi,194400.0,EFV,0.475,0.0789659619197041,
+Miller,10,psi,194400.0,EFV,0.525,0.0768634083527716,
+Miller,10,psi,194400.0,EFV,0.5750000000000001,0.0747610836738796,
+Miller,10,psi,194400.0,EFV,0.625,0.0726590022942612,
+Miller,10,psi,194400.0,EFV,0.675,0.07055717694681,
+Miller,10,psi,194400.0,EFV,0.7250000000000001,0.0684556185422417,
+Miller,10,psi,194400.0,EFV,0.775,0.0663543360243191,
+Miller,10,psi,194400.0,EFV,0.8250000000000001,0.0642533362240729,
+Miller,10,psi,194400.0,EFV,0.875,0.0621526237129546,
+Miller,10,psi,194400.0,EFV,0.925,0.0600522006548584,
+Miller,10,psi,194400.0,EFV,0.975,0.0579520666569485,
+Miller,10,psi,194400.0,EFV,1.025,0.055852218619233,
+Miller,10,psi,194400.0,EFV,1.075,0.0537526505828236,
+Miller,10,psi,194400.0,EFV,1.125,0.0516533535768231,
+Miller,10,psi,194400.0,EFV,1.175,0.0495543154637843,
+Miller,10,psi,194400.0,EFV,1.225,0.0474555207836846,
+Miller,10,psi,194400.0,EFV,1.275,0.0453569505963614,
+Miller,10,psi,194400.0,EFV,1.3250000000000002,0.0432585823223551,
+Miller,10,psi,194400.0,EFV,1.375,0.0411603895821082,
+Miller,10,psi,194400.0,EFV,1.425,0.0390623420334672,
+Miller,10,psi,194400.0,EFV,1.475,0.0369644052074378,
+Miller,10,psi,194400.0,EFV,1.525,0.0348665403421432,
+Miller,10,psi,194400.0,EFV,1.5750000000000002,0.0327687042149344,
+Miller,10,psi,194400.0,EFV,1.625,0.0306708489726033,
+Miller,10,psi,194400.0,EFV,1.675,0.0285729219596478,
+Miller,10,psi,194400.0,EFV,1.725,0.0264748655445393,
+Miller,10,psi,194400.0,EFV,1.775,0.0243766169439384,
+Miller,10,psi,194400.0,EFV,1.825,0.0222781080448084,
+Miller,10,psi,194400.0,EFV,1.875,0.0201792652243689,
+Miller,10,psi,194400.0,EFV,1.925,0.0180800091678338,
+Miller,10,psi,194400.0,EFV,1.975,0.0159802546838718,
+Miller,10,psi,194400.0,EFV,2.025,0.0138799105177252,
+Miller,10,psi,194400.0,EFV,2.075,0.011778879161918,
+Miller,10,psi,194400.0,EFV,2.125,0.0096770566644785,
+Miller,10,psi,194400.0,EFV,2.1750000000000003,0.0075743324345953,
+Miller,10,psi,194400.0,EFV,2.225,0.0054705890456168,
+Miller,10,psi,194400.0,EFV,2.275,0.0033657020352987,
+Miller,10,psi,194400.0,EFV,2.325,-0.0009396289569723,
+Miller,10,psi,194400.0,EFV,2.375,-0.0195263894592109,
+Miller,10,psi,194400.0,EFV,2.4250000000000003,-0.0910364646526037,
+Miller,10,psi,194400.0,EFV,2.475,-0.3657267246199703,
+Miller,10,psi,194400.0,EFV,2.5250000000000004,-1.7353429911928842,
+Miller,10,psi,194400.0,EFV,2.575,-2.39605725442889,
+Miller,10,psi,194400.0,EFV,2.625,-2.3499888888512896,
+Miller,10,psi,194400.0,EFV,2.6750000000000003,-2.299999967906752,
+Miller,10,psi,194400.0,EFV,2.725,-2.249999999903396,
+Miller,10,psi,194400.0,EFV,2.7750000000000004,-2.199999999999999,
+Miller,10,psi,194400.0,EFV,2.825,-2.15,
+Miller,10,psi,194400.0,EFV,2.875,-2.0999999999999988,
+Miller,10,psi,194400.0,EFV,2.9250000000000003,-2.05,
+Miller,10,psi,194400.0,EFV,2.975,-2.0,
+Miller,10,psi,194400.0,EFV,3.0250000000000004,-1.949999999999999,
+Miller,10,psi,194400.0,EFV,3.075,-1.9,
+Miller,10,psi,194400.0,EFV,3.125,-1.8499999999999992,
+Miller,10,psi,194400.0,EFV,3.1750000000000003,-1.7999999999999992,
+Miller,10,psi,194400.0,EFV,3.225,-1.7499999999999982,
+Miller,10,psi,194400.0,EFV,3.2750000000000004,-1.7000000000000006,
+Miller,10,psi,194400.0,EFV,3.325,-1.6500000000000004,
+Miller,10,psi,194400.0,EFV,3.375,-1.6,
+Miller,10,psi,194400.0,EFV,3.4250000000000003,-1.5499999999999998,
+Miller,10,psi,194400.0,EFV,3.475,-1.5,
+Miller,10,psi,194400.0,EFV,3.5250000000000004,-1.4500000000000004,
+Miller,10,psi,194400.0,EFV,3.575,-1.4000000000002588,
+Miller,10,psi,194400.0,EFV,3.625,-1.350000000134724,
+Miller,10,psi,194400.0,EFV,3.675,-1.3000000012724915,
+Miller,10,psi,194400.0,EFV,3.725,-1.2500000090739298,
+Miller,10,psi,194400.0,EFV,3.775,-1.2000000561170945,
+Miller,10,psi,194400.0,EFV,3.825,-1.1500003055388306,
+Miller,10,psi,194400.0,EFV,3.875,-1.1000014650034815,
+Miller,10,psi,194400.0,EFV,3.925,-1.0500061782768746,
+Miller,10,psi,194400.0,EFV,3.975,-1.000022899649714,
+Miller,10,psi,194400.0,EFV,4.025,-0.9500746200505782,
+Miller,10,psi,194400.0,EFV,4.075,-0.900214130101651,
+Miller,10,psi,194400.0,EFV,4.125,-0.8505429275420291,
+Miller,10,psi,194400.0,EFV,4.175,-0.8012226167784918,
+Miller,10,psi,194400.0,EFV,4.2250000000000005,-0.7524624214876818,
+Miller,10,psi,194400.0,EFV,4.275,-0.7044738535046726,
+Miller,10,psi,194400.0,EFV,4.325,-0.6574034347902483,
+Miller,10,psi,194400.0,EFV,4.375,-0.6112714753406717,
+Miller,10,psi,194400.0,EFV,4.425,-0.5659443138867125,
+Miller,10,psi,194400.0,EFV,4.4750000000000005,-0.5211509308779882,
+Miller,10,psi,194400.0,EFV,4.525,-0.4765361261223035,
+Miller,10,psi,194400.0,EFV,4.575,-0.4317314563886762,
+Miller,10,psi,194400.0,EFV,4.625,-0.3864229090095974,
+Miller,10,psi,194400.0,EFV,4.675,-0.3403982313175454,
+Miller,10,psi,194400.0,EFV,4.7250000000000005,-0.2935648170646747,
+Miller,10,psi,194400.0,EFV,4.775,-0.2459388953546146,
+Miller,10,psi,194400.0,EFV,4.825,-0.197615091047382,
+Miller,10,psi,194400.0,EFV,4.875,-0.1487290109986857,
+Miller,10,psi,194400.0,EFV,4.925000000000001,-0.0994236475221254,
+Miller,10,psi,194400.0,EFV,4.9750000000000005,-0.0498248400656662,
+Miller,10,psi,194400.0,Reference,0.025,0.0978959793298594,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.075,0.0957919835420684,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.125,0.0936880373816914,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.175,0.0915841653191388,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.225,0.0894803914126766,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.275,0.0873767391706387,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.325,0.0852732314134592,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.375,0.0831698901351284,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.425,0.0810667363644474,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.475,0.0789637900254976,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.525,0.0768610697977426,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.5750000000000001,0.0747585929752852,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.625,0.0726563753254395,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.675,0.0705544309465822,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.7250000000000001,0.0684527721249183,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.775,0.0663514091904826,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.8250000000000001,0.0642503503720719,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.875,0.0621496016510104,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.925,0.0600491666139125,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,0.975,0.0579490463041066,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.025,0.0558492390718875,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.075,0.0537497404234072,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.125,0.05165054286812,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.175,0.0495516357648874,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.225,0.0474530051665489,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.275,0.0453546336628875,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.3250000000000002,0.0432565002220615,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.375,0.041158580030375,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.425,0.0390608443303174,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.475,0.0369632602568361,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.525,0.0348657906718592,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.5750000000000002,0.0327683939969017,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.625,0.0306710240438903,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.675,0.0285736298438796,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.725,0.0264761554739429,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.775,0.0243785398818947,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.825,0.022280716709002,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.875,0.0201826141105907,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.925,0.0180841545743111,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,1.975,0.0159852547363525,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.025,0.0138858251952169,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.075,0.0117857703232694,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.125,0.0096849880762144,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.1750000000000003,0.0075833698026665,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.225,0.0054808000741235,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.275,0.0033771566956411,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.325,-0.0009789479671976,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.375,-0.01974160293965,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.4250000000000003,-0.0918135322673368,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.475,-0.3687834408670692,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.5250000000000004,-1.7467866187145578,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.575,-2.396174639555443,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.625,-2.349989208018702,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.6750000000000003,-2.299999968799448,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.725,-2.249999999908592,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.7750000000000004,-2.199999999999048,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.825,-2.150000000000784,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.875,-2.0999999999995813,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.9250000000000003,-2.04999999999972,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,2.975,-2.000000000000105,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.0250000000000004,-1.9500000000001056,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.075,-1.8999999999994757,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.125,-1.850000000000743,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.1750000000000003,-1.8000000000000114,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.225,-1.7500000000000382,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.2750000000000004,-1.7000000000001845,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.325,-1.6500000000006745,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.375,-1.6000000000000023,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.4250000000000003,-1.5500000000000635,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.475,-1.5000000000000602,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.5250000000000004,-1.4499999999996414,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.575,-1.40000000000685,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.625,-1.3500000001561103,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.675,-1.3000000012998123,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.725,-1.2500000091039192,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.775,-1.2000000561438564,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.825,-1.1500003055173107,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.875,-1.1000014647102023,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.925,-1.050006176788444,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,3.975,-1.0000228938279123,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.025,-0.9500746011456126,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.075,-0.9002140781697343,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.125,-0.8505428057121797,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.175,-0.8012223705550651,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.2250000000000005,-0.7524619886324488,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.275,-0.7044731843468617,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.325,-0.657402514530381,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.375,-0.6112703367334901,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.425,-0.5659430337375442,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.4750000000000005,-0.521149612271763,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.525,-0.4765348740841292,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.575,-0.4317303557200454,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.625,-0.3864220106409126,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.675,-0.3403975495483444,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.7250000000000005,-0.2935643360865365,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.775,-0.2459385808253487,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.825,-0.1976149020110492,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.875,-0.1487289088544816,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.925000000000001,-0.0994236008637107,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."
+Miller,10,psi,194400.0,Reference,4.9750000000000005,-0.0498248258385672,"Authors' implicit Picard calculation generated from the benchmark configuration adapted from Miller, Williams, Kelley and Tocci (1998), https://doi.org/10.1029/98WR01673."

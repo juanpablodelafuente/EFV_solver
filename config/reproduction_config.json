@@ -1,0 +1,137 @@
+{
+  "archive_version": "1.0.0",
+  "paper_title": "Explicit Mixed-Form Finite-Volume Solver for the 1-D Richards Equation: Stability Analysis and Benchmark Assessment",
+  "paper_benchmarks": [
+    "Forsyth",
+    "Celia",
+    "Warrick",
+    "Warrick2",
+    "Zhi Li",
+    "Zadeh",
+    "Zeng",
+    "Caviedes",
+    "Miller",
+    "Hills"
+  ],
+  "quantitative_benchmarks": [
+    "Forsyth",
+    "Celia",
+    "Warrick",
+    "Warrick2",
+    "Zhi Li",
+    "Zadeh",
+    "Zeng",
+    "Caviedes",
+    "Miller",
+    "Hills"
+  ],
+  "performance_benchmark_order": [
+    "Forsyth",
+    "Celia",
+    "Warrick",
+    "Warrick2",
+    "Zhi Li",
+    "Zeng",
+    "Zadeh",
+    "Caviedes",
+    "Miller",
+    "Hills"
+  ],
+  "agreement_files": {
+    "Forsyth": "Forsyth.csv",
+    "Celia": "Celia.csv",
+    "Warrick": "Warrick.csv",
+    "Warrick2": "Warrick2.csv",
+    "Zhi Li": "Zhi_Li.csv",
+    "Zadeh": "Zadeh.csv",
+    "Zeng": "Zeng.csv",
+    "Caviedes": "Caviedes.csv",
+    "Miller": "Miller.csv",
+    "Hills": "Hills.csv"
+  },
+  "figure_files": {
+    "Forsyth": "Figure_02_Forsyth.csv",
+    "Celia": "Figure_03_Celia.csv",
+    "Warrick": "Figure_04_Warrick.csv",
+    "Warrick2": "Figure_05_Warrick2.csv",
+    "Zhi Li": "Figure_06_Zhi_Li.csv",
+    "Zadeh": "Figure_07_Zadeh.csv",
+    "Zeng": "Figure_08_Zeng.csv",
+    "Caviedes": "Figure_09_Caviedes.csv",
+    "Miller": "Figure_10_Miller.csv",
+    "Hills": "Figure_11_Hills.csv"
+  },
+  "paper_figure_numbers": {
+    "Forsyth": 2,
+    "Celia": 3,
+    "Warrick": 4,
+    "Warrick2": 5,
+    "Zhi Li": 6,
+    "Zadeh": 7,
+    "Zeng": 8,
+    "Caviedes": 9,
+    "Miller": 10,
+    "Hills": 11
+  },
+  "paper_plot_fields": {
+    "Forsyth": "psi",
+    "Celia": "psi",
+    "Warrick": "psi",
+    "Warrick2": "psi",
+    "Zhi Li": "psi",
+    "Zadeh": "psi",
+    "Zeng": "psi",
+    "Caviedes": "psi",
+    "Miller": "psi",
+    "Hills": "theta"
+  },
+  "paper_times_s": {
+    "Forsyth": [8640000.0],
+    "Celia": [21600.0],
+    "Warrick": [1000800.0],
+    "Warrick2": [46800.0],
+    "Zhi Li": [32400.0],
+    "Zadeh": [18000.0],
+    "Zeng": [3600.0],
+    "Caviedes": [7200.0],
+    "Miller": [194400.0],
+    "Hills": [432000.0]
+  },
+  "figure_series": [
+    "Initial",
+    "EFV",
+    "Reference"
+  ],
+  "quantitative_comparison_times_s": {
+    "Forsyth": 8640000.0,
+    "Celia": 21600.0,
+    "Warrick": 1000800.0,
+    "Warrick2": 46800.0,
+    "Zhi Li": 32400.0,
+    "Zadeh": 18000.0,
+    "Zeng": 3600.0,
+    "Caviedes": 7200.0,
+    "Miller": 194400.0,
+    "Hills": 432000.0
+  },
+  "agreement_columns": [
+    "benchmark",
+    "time_s",
+    "depth_m",
+    "theta_EFV",
+    "theta_reference",
+    "psi_EFV_m",
+    "psi_reference_m",
+    "reference_source"
+  ],
+  "figure_columns": [
+    "benchmark",
+    "figure_number",
+    "field",
+    "time_s",
+    "series",
+    "depth_m",
+    "value",
+    "reference_source"
+  ]
+}

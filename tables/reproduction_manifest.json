@@ -1,0 +1,147 @@
+{
+  "archive_version": "1.0.0",
+  "inputs": [
+    {
+      "path": "config/reproduction_config.json",
+      "sha256": "0ba3853a641830b5b00efb949e872eb576ea1f2e8191f04c416bdd5edcbe75bf",
+      "size_bytes": 2818
+    },
+    {
+      "path": "data/agreement/Caviedes.csv",
+      "sha256": "785a05678c4191e45de374861cddece3642e8ec9d1d673adf4c662ae30c39936",
+      "size_bytes": 14353
+    },
+    {
+      "path": "data/agreement/Celia.csv",
+      "sha256": "e49125d2b9555d8fa93486259b009ea3764299fd09f9ed47ad5384b415840ba5",
+      "size_bytes": 5390
+    },
+    {
+      "path": "data/agreement/Forsyth.csv",
+      "sha256": "2d7dd5057912352e4b8115464d4554aa8c8981d3d0216e05a2109e0a36cb6682",
+      "size_bytes": 16604
+    },
+    {
+      "path": "data/agreement/Hills.csv",
+      "sha256": "2935195bf87e535601563d56633bb5cadfc2ef756e778691a6f894ee8e24af7c",
+      "size_bytes": 27549
+    },
+    {
+      "path": "data/agreement/Miller.csv",
+      "sha256": "8e0b82f8435fe30795894df5acc6ddbfde584225c1624737856688e75ccd6413",
+      "size_bytes": 26143
+    },
+    {
+      "path": "data/agreement/Warrick.csv",
+      "sha256": "648bf3a26ad4ed678b5d2a2ae77b1c6a441e1d13a8bbc12c352a23846d474112",
+      "size_bytes": 7013
+    },
+    {
+      "path": "data/agreement/Warrick2.csv",
+      "sha256": "b3ba909a043053fd024e48e13d9c94c16b45994d3f33cf84d99625a70de870d5",
+      "size_bytes": 5786
+    },
+    {
+      "path": "data/agreement/Zadeh.csv",
+      "sha256": "a53aaae41221d516b2ca3e83c2fd92d7eb482998eaaad56d29a27822b0cde34f",
+      "size_bytes": 7466
+    },
+    {
+      "path": "data/agreement/Zeng.csv",
+      "sha256": "fffcbff22e261cd45f6a14851aa2fc432e4981665b9c6526a5edb1496588f97a",
+      "size_bytes": 52995
+    },
+    {
+      "path": "data/agreement/Zhi_Li.csv",
+      "sha256": "d583b674549738d5b6c16f94f8345125b6724a41dd39949f8280dcd240d19fc2",
+      "size_bytes": 12886
+    },
+    {
+      "path": "data/benchmark_configurations.json",
+      "sha256": "de44de477b07c0d81aa993005c45cedd7203db53cb063c47bf01acd312ca955c",
+      "size_bytes": 15783
+    },
+    {
+      "path": "data/figures/Figure_02_Forsyth.csv",
+      "sha256": "4c9d57b5b3ed700f8b57a520d6d71c14936b6ee81d83e790c210c7b75609fd9e",
+      "size_bytes": 23031
+    },
+    {
+      "path": "data/figures/Figure_03_Celia.csv",
+      "sha256": "3a1355e976f6913b748448276252f85b1da411d2749566fda375b06089df5328",
+      "size_bytes": 7465
+    },
+    {
+      "path": "data/figures/Figure_04_Warrick.csv",
+      "sha256": "e63641b5a123dcb4d5f50007fb30a44588f12ee9af95faced5333a81f605fbee",
+      "size_bytes": 9939
+    },
+    {
+      "path": "data/figures/Figure_05_Warrick2.csv",
+      "sha256": "e6d8820d22e392bd0bf2141574969d2ee3db40f06fa4895a3fb01499dcd07888",
+      "size_bytes": 7984
+    },
+    {
+      "path": "data/figures/Figure_06_Zhi_Li.csv",
+      "sha256": "dd4bd3a7b9377925e30aa79a30ddd7eacbd4f812c08a3c0631790fe08b362240",
+      "size_bytes": 18053
+    },
+    {
+      "path": "data/figures/Figure_07_Zadeh.csv",
+      "sha256": "ffb7f43228aac241a0502ddb12d5083ab576ed261f7fe5b70f9625cb2bd61a76",
+      "size_bytes": 10444
+    },
+    {
+      "path": "data/figures/Figure_08_Zeng.csv",
+      "sha256": "c3e9fee6aa4a6c3a29a49749dd4a26d0f2a45b481aa4fa859307acfd1284beff",
+      "size_bytes": 75481
+    },
+    {
+      "path": "data/figures/Figure_09_Caviedes.csv",
+      "sha256": "976c6098cefeb5721fcdf0ef741e18b4fa6a6e5396e1c1a434350338c0252db9",
+      "size_bytes": 19957
+    },
+    {
+      "path": "data/figures/Figure_10_Miller.csv",
+      "sha256": "f0c50f48b823d3ac9dc2a13865718772aa8a9a9f3faf7c06f7c053e41b721767",
+      "size_bytes": 38852
+    },
+    {
+      "path": "data/figures/Figure_11_Hills.csv",
+      "sha256": "ae9c6ad72582abe0cb75eb8e9edae63173418e3675cbabb5ee8fd60005ff5fe0",
+      "size_bytes": 40031
+    },
+    {
+      "path": "data/provenance.json",
+      "sha256": "b547e7e84af18158449ff548a98e607288785287086937e2a6d0febba2376608",
+      "size_bytes": 2693
+    },
+    {
+      "path": "data/tables/numerical_performance.csv",
+      "sha256": "7ff5fe8647ed3416d1202ccaaaff26eed77b00519af3af9b6f1d565d56c35768",
+      "size_bytes": 2424
+    },
+    {
+      "path": "data/tables/profile_agreement.csv",
+      "sha256": "369d253513f94a72193690778550e9f57290c2acef0ba385e4283ba0fcddb7b2",
+      "size_bytes": 1124
+    }
+  ],
+  "generated_figures": [
+    "figures/Figure_02_Forsyth_psi_profiles.png",
+    "figures/Figure_03_Celia_psi_profiles.png",
+    "figures/Figure_04_Warrick_psi_profiles.png",
+    "figures/Figure_05_Warrick2_psi_profiles.png",
+    "figures/Figure_06_Zhi_Li_psi_profiles.png",
+    "figures/Figure_07_Zadeh_psi_profiles.png",
+    "figures/Figure_08_Zeng_psi_profiles.png",
+    "figures/Figure_09_Caviedes_psi_profiles.png",
+    "figures/Figure_10_Miller_psi_profiles.png",
+    "figures/Figure_11_Hills_theta_profiles.png"
+  ],
+  "generated_tables": [
+    "tables/profile_agreement_reproduced.csv",
+    "tables/profile_agreement_reproduced.tex",
+    "tables/numerical_performance_reproduced.csv"
+  ]
+}
