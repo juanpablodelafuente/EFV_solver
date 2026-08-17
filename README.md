@@ -2,13 +2,13 @@
 
 This repository accompanies the manuscript:
 
-> *Explicit Mixed-Form Finite-Volume Solver for the 1-D Richards
+> *An Explicit Finite-Volume Solver for the 1-D Richards
 > Equation: Stability Analysis and Benchmark Assessment*
 
 It provides the numerical datasets used in the benchmark profile figures,
 the common-grid profiles used to calculate agreement measures, the reported
 performance summaries, and a Python workflow that validates the archived
-values and recreates the figures and tables.
+values and recreates the figures and tables for the final time step.
 
 ## Benchmarks
 
